@@ -1,0 +1,26 @@
+{
+  "tempcondoappApp": {
+    "exceptionTable": {
+      "home": {
+        "title": "Exception Tables",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo Exception Table",
+        "createOrEditLabel": "Crear o editar Exception Table",
+        "notFound": "Ningún Exception Tables encontrado"
+      },
+      "created": "Un nuevo Exception Table ha sido creado con el identificador {{ param }}",
+      "updated": "Un Exception Table ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Exception Table ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Exception Table {{ id }}?"
+      },
+      "detail": {
+        "title": "Exception Table"
+      },
+      "id": "ID",
+      "iDException": "I D Exception",
+      "message": "Message",
+      "number": "Number"
+    }
+  }
+}

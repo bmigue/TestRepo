@@ -1,0 +1,39 @@
+{
+  "tempcondoappApp": {
+    "userProfile": {
+      "home": {
+        "title": "User Profiles",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo User Profile",
+        "createOrEditLabel": "Crear o editar User Profile",
+        "notFound": "Ningún User Profiles encontrado"
+      },
+      "created": "Un nuevo User Profile ha sido creado con el identificador {{ param }}",
+      "updated": "Un User Profile ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un User Profile ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar User Profile {{ id }}?"
+      },
+      "detail": {
+        "title": "User Profile"
+      },
+      "id": "ID",
+      "iDUser": "I D User",
+      "name": "Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "plateNumber": "Plate Number",
+      "status": "Status",
+      "type": "Type",
+      "idUserUserInterface": "Id User User Interface",
+      "idUserPayment": "Id User Payment",
+      "idUserGuest": "Id User Guest",
+      "idUserSchedule": "Id User Schedule",
+      "idUserCondo": "Id User Condo",
+      "idUserReservation": "Id User Reservation",
+      "idUserAdminWall": "Id User Admin Wall",
+      "idUserGeneralForum": "Id User General Forum"
+    }
+  }
+}

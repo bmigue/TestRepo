@@ -1,0 +1,29 @@
+{
+  "tempcondoappApp": {
+    "guest": {
+      "home": {
+        "title": "Guests",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo Guest",
+        "createOrEditLabel": "Crear o editar Guest",
+        "notFound": "Ningún Guests encontrado"
+      },
+      "created": "Un nuevo Guest ha sido creado con el identificador {{ param }}",
+      "updated": "Un Guest ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Guest ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Guest {{ id }}?"
+      },
+      "detail": {
+        "title": "Guest"
+      },
+      "id": "ID",
+      "iDGuest": "I D Guest",
+      "fullName": "Full Name",
+      "plateNumber": "Plate Number",
+      "status": "Status",
+      "userProfile": "User Profile",
+      "iDGuestCheckLog": "I D Guest Check Log"
+    }
+  }
+}

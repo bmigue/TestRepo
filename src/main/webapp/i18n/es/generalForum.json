@@ -1,0 +1,28 @@
+{
+  "tempcondoappApp": {
+    "generalForum": {
+      "home": {
+        "title": "General Forums",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo General Forum",
+        "createOrEditLabel": "Crear o editar General Forum",
+        "notFound": "Ningún General Forums encontrado"
+      },
+      "created": "Un nuevo General Forum ha sido creado con el identificador {{ param }}",
+      "updated": "Un General Forum ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un General Forum ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar General Forum {{ id }}?"
+      },
+      "detail": {
+        "title": "General Forum"
+      },
+      "id": "ID",
+      "iDGeneralForum": "I D General Forum",
+      "postDate": "Post Date",
+      "post": "Post",
+      "iDGeneralForumComment": "I D General Forum Comment",
+      "userProfile": "User Profile"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "tempcondoappApp": {
+    "paymentLog": {
+      "home": {
+        "title": "Payment Logs",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo Payment Log",
+        "createOrEditLabel": "Crear o editar Payment Log",
+        "notFound": "Ningún Payment Logs encontrado"
+      },
+      "created": "Un nuevo Payment Log ha sido creado con el identificador {{ param }}",
+      "updated": "Un Payment Log ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Payment Log ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Payment Log {{ id }}?"
+      },
+      "detail": {
+        "title": "Payment Log"
+      },
+      "id": "ID",
+      "iDPaymentLog": "I D Payment Log",
+      "dueDate": "Due Date",
+      "status": "Status",
+      "userProfile": "User Profile"
+    }
+  }
+}

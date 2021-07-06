@@ -1,0 +1,27 @@
+{
+  "tempcondoappApp": {
+    "schedule": {
+      "home": {
+        "title": "Schedules",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo Schedule",
+        "createOrEditLabel": "Crear o editar Schedule",
+        "notFound": "Ningún Schedules encontrado"
+      },
+      "created": "Un nuevo Schedule ha sido creado con el identificador {{ param }}",
+      "updated": "Un Schedule ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Schedule ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Schedule {{ id }}?"
+      },
+      "detail": {
+        "title": "Schedule"
+      },
+      "id": "ID",
+      "iDSchedule": "I D Schedule",
+      "inDateTime": "In Date Time",
+      "outDateTime": "Out Date Time",
+      "userProfile": "User Profile"
+    }
+  }
+}

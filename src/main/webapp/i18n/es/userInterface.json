@@ -1,0 +1,26 @@
+{
+  "tempcondoappApp": {
+    "userInterface": {
+      "home": {
+        "title": "User Interfaces",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo User Interface",
+        "createOrEditLabel": "Crear o editar User Interface",
+        "notFound": "Ningún User Interfaces encontrado"
+      },
+      "created": "Un nuevo User Interface ha sido creado con el identificador {{ param }}",
+      "updated": "Un User Interface ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un User Interface ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar User Interface {{ id }}?"
+      },
+      "detail": {
+        "title": "User Interface"
+      },
+      "id": "ID",
+      "iDUserInterface": "I D User Interface",
+      "themeName": "Theme Name",
+      "color": "Color"
+    }
+  }
+}

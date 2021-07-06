@@ -1,0 +1,25 @@
+{
+  "tempcondoappApp": {
+    "media": {
+      "home": {
+        "title": "Media",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo Media",
+        "createOrEditLabel": "Crear o editar Media",
+        "notFound": "Ningún Media encontrado"
+      },
+      "created": "Un nuevo Media ha sido creado con el identificador {{ param }}",
+      "updated": "Un Media ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Media ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Media {{ id }}?"
+      },
+      "detail": {
+        "title": "Media"
+      },
+      "id": "ID",
+      "iDMedia": "I D Media",
+      "url": "Url"
+    }
+  }
+}
